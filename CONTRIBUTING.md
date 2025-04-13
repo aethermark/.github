@@ -52,4 +52,4 @@ All contributors are expected to follow our Code of Conduct. Be respectful, coll
 ## 🙌 Join the Community
 - Ask questions in Discussions
 - Share ideas and suggest features
-- Follow @aethermark_dev for updates
+- Follow [aethermark](https://x.com/aethermark_dev) for updates
